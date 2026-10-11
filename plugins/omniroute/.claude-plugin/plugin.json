@@ -1,0 +1,8 @@
+{
+  "name": "omniroute",
+  "version": "3.8.52",
+  "description": "OmniRoute AI proxy/router: 46 agent skills for auth, providers, routing combos, usage, budgets and more. Skills copied from diegosouzapw/OmniRoute (MIT).",
+  "author": { "name": "diegosouzapw", "url": "https://github.com/diegosouzapw/OmniRoute" },
+  "homepage": "https://github.com/diegosouzapw/OmniRoute",
+  "license": "MIT"
+}

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "omniroute": {
+      "command": "npx",
+      "args": ["-y", "omniroute@3.8.51", "--mcp"],
+      "env": {}
+    }
+  }
+}
